@@ -11,6 +11,10 @@ So the files relative to the exercise one are :<br/>
 `noteformatter_spec.rb`<br/>
 `noteformatter.rb`<br/>
 
+For the exercise 2 the relative files are:<br/>
+`greeter_spec.rb`<br/>
+`greeter.rb`<br/>
+
 ## How to use ##
 
 1. clone the repo<br/>
