@@ -4,6 +4,13 @@ In order to understand and train about the dependency injection technique, I am 
 
 The instruction of the exercise will be at the beginning of each files.
 
+For the 1st exercise I have decided to break the files and to do 1 file per class and per test of this class.<br/>
+So the files relative to the exercise one are :<br/>
+`note_spec.rb`<br/>
+`note.rb`<br/>
+`noteformatter_spec.rb`<br/>
+`noteformatter.rb`<br/>
+
 ## How to use ##
 
 1. clone the repo<br/>
