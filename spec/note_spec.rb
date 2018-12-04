@@ -1,3 +1,5 @@
+# Refer to Exercise 1
+
 require "note"
 
 describe Note do

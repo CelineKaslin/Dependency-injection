@@ -1,3 +1,5 @@
+# refer to Exercise 1
+
 require "NoteFormatter"
 require "note"
 
